@@ -1,0 +1,62 @@
+  [
+    {
+      "id": 1,
+      "price": 223,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "price": 302,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Apple"
+    },
+    {
+      "id": 3,
+      "price": 111,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Angelita Drake"
+    },
+    {
+      "id": 4,
+      "price": 353,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Summer Emerson"
+    },
+    {
+      "id": 5,
+      "price": 146,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Wright Frost"
+    },
+    {
+      "id": 6,
+      "price": 62,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Helene Kidd"
+    },
+    {
+      "id": 7,
+      "price": 359,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Gill French"
+    },
+    {
+      "id": 8,
+      "price": 62,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Casey Eaton"
+    },
+    {
+      "id": 9,
+      "price": 223,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Fitzgerald Kim"
+    },
+    {
+      "id": 10,
+      "price": 312,
+      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "name": "Slater Barnett"
+    }
+  ]
