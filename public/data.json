@@ -1,62 +1,62 @@
   [
     {
       "id": 1,
-      "price": 223,
+      "price": 160,
       "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
       "name": "Apple"
     },
     {
       "id": 2,
-      "price": 302,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Apple"
+      "price": 360,
+      "img": "https://images.pexels.com/photos/7303409/pexels-photo-7303409.jpeg?",
+      "name": "Grapes"
     },
     {
       "id": 3,
-      "price": 111,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Angelita Drake"
+      "price": 380,
+      "img": "https://images.pexels.com/photos/3691116/pexels-photo-3691116.jpeg?",
+      "name": "Dragon"
     },
     {
       "id": 4,
-      "price": 353,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Summer Emerson"
+      "price": 300,
+      "img": "https://images.pexels.com/photos/2294471/pexels-photo-2294471.jpeg?",
+      "name": "Mango"
     },
     {
       "id": 5,
-      "price": 146,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Wright Frost"
+      "price": 400,
+      "img": "https://images.pexels.com/photos/2894205/pexels-photo-2894205.jpeg?",
+      "name": "Watermelons"
     },
     {
       "id": 6,
-      "price": 62,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Helene Kidd"
+      "price": 360,
+      "img": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?",
+      "name": "Strawberry"
     },
     {
       "id": 7,
-      "price": 359,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Gill French"
+      "price": 220,
+      "img": "https://images.pexels.com/photos/2135677/pexels-photo-2135677.jpeg?",
+      "name": "Orange"
     },
     {
       "id": 8,
-      "price": 62,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Casey Eaton"
+      "price":60,
+      "img": "https://images.pexels.com/photos/5945882/pexels-photo-5945882.jpeg?",
+      "name": "Pineapple"
     },
     {
       "id": 9,
       "price": 223,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
-      "name": "Fitzgerald Kim"
+      "img": "https://images.pexels.com/photos/2351813/pexels-photo-2351813.jpeg?",
+      "name": "Guava"
     },
     {
       "id": 10,
-      "price": 312,
-      "img": "https://images.pexels.com/photos/672101/pexels-photo-672101.jpeg?",
+      "price": 280,
+      "img": "https://images.pexels.com/photos/5273044/pexels-photo-5273044.jpeg?",
       "name": "Slater Barnett"
     }
   ]
